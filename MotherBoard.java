@@ -1,6 +1,6 @@
 package pcTest;
 
-public class MotherBoard {
+public class   MotherBoard {
     private String model;
     private String manufacture;
     private int ramSlots;
